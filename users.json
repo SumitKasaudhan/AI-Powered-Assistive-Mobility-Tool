@@ -1,0 +1,17 @@
+{
+    "sumit": {
+        "password": "$2b$12$vCHRht1cmMB83LDgZXOyFe/Qt3ryS67OndIlbUKZTmxo2uaPWu/Ca",
+        "name": "Sumit",
+        "created_at": "2025-12-29"
+    },
+    "will": {
+        "password": "$2b$12$ALjd1uC46uyS9hGtZM4HlOt.s/N5mPYT4Z.R2lhWBu0vPOI4alHBC",
+        "name": "will",
+        "created_at": "2025-12-29"
+    },
+    "mike": {
+        "password": "$2b$12$5/3zfwbLRnbFgTSsc8ZkmOykbghm7gcLKaWmGm8cEwHEef16iVJNq",
+        "name": "mike",
+        "created_at": "2026-01-16"
+    }
+}

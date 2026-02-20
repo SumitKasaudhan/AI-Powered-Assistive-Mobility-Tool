@@ -1,0 +1,22 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# AI model weights (optional)
+*.pt
+*.pth
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
