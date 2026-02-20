@@ -1,1 +1,1 @@
-# AI-Powered-Assistive-Mobility-Tool-for-Visually-Impaired_November_Batch-5_2025
+# AI-Powered-Assistive-Mobility-Tool-for-Visually-Impaired
