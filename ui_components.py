@@ -1,4 +1,3 @@
-# ui_components.py
 import streamlit as st
 from typing import Optional, Dict, List, Tuple, Callable
 import base64
@@ -222,7 +221,7 @@ html, body, .stApp {
 /* ================================
    CLEAN UI
 ================================ */
-#MainMenu, footer, header {
+#MainMenu, footer {
     visibility: hidden;
 }
 
