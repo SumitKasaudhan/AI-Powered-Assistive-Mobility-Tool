@@ -55,7 +55,7 @@ The system integrates advanced computer vision and deep learning models such as 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/visionmate.git
+git clone https://github.com/SumitKasaudhan/AI-Powered-Assistive-Mobility-Tool.git
 cd visionmate
 ```
 
