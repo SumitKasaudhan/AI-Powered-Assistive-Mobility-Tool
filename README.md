@@ -8,7 +8,7 @@ The system integrates advanced computer vision and deep learning models such as 
 
 > ⚡ Built as part of an industry-aligned internship under Infosys Springboard, focusing on real-world AI applications.
 
-## 🎯 Key Highlights (Recruiter-Focused)
+## 🎯 Key Highlights
 
 * ✅ Developed a **real-time video processing pipeline** using Python and AI models
 * ✅ Implemented **frame-by-frame object detection** to ensure zero data loss
@@ -17,7 +17,6 @@ The system integrates advanced computer vision and deep learning models such as 
 * ✅ Designed **assistive audio feedback system** using gTTS
 * ✅ Applied **secure authentication** with bcrypt
 * ✅ Optimized system for **low latency and high accuracy**
-
 ---
 
 ## 🧠 Technical Skills Demonstrated
@@ -77,7 +76,6 @@ streamlit run app.py
 ```
 http://localhost:8501
 ```
-
 
 ## 📜 License
 
